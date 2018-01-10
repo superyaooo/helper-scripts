@@ -16,3 +16,6 @@ if [git ls-remote --heads ${REPO} ${BRANCH} | wc -l]     # check if remote branc
 
 # list all local branches
 git branch
+
+# get repo url
+git config --get remote.origin.url
