@@ -2,6 +2,8 @@
 
 decorator="***********"
 echo "$decorator Ni hao, $(whoami) $decorator"  # if $USER not working; can also be $(id -n -u)
+echo Current directory: `pwd`
+echo -en '\n'
 
 # loop through all local branches; double quote needed here
 echo "Local branches found:"
