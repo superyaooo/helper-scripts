@@ -6,4 +6,5 @@
 
 
 _Note_:
-* Alias example: alias gitlocalclean='bash ~/Documents/helper-scripts/git-localbranch-cleanup.sh'
+Define alias in .bash_profile at home directory, example:
+alias gitlocalclean='bash ~/projects/helper-scripts/git-localbranch-cleanup.sh'
