@@ -1,7 +1,7 @@
 ### Little helpers to make life easier
 
 * git-localbranch-cleanup -> cleans up out of date local branches whose remote no longer exists
-
+* jsonMethodCallConverter -> takes in an array of Json objects and converts them into method calls
 
 
 ----------
